@@ -1,7 +1,7 @@
 Welcome! 
 
 <h2>About me:</h2>
-On October 21st 2021, I had my first contact with programming (javascript). For over 12 years I have been using computers as my main source of entertainment and also a tool to seek knowledge of all kind, for that purpose coding seems to be something I'm able to do naturally.
+On October 21st 2021, I had my first contact with programming (javascript). For over 12 years I have been using computers as my main source of entertainment and also a tool to seek knowledge of all kind, for that purpose coding seems to be something I'm able to do naturally. Nowadays I'm continuously seeking opportunities to study other coding languages/frameworks or acquire advanced knowedge on previously learned languages.
 
 <h2>Languages:</h2>
 <ul><li>Portuguese(BR) - First language.</li>
@@ -13,11 +13,13 @@ On October 21st 2021, I had my first contact with programming (javascript). For 
 <li><strong>Javascript</strong> - Basics & fundamentals.</li>
 <li><strong>PHP</strong> - Basics & fundamentals.</li>
 <li><strong>Java (POO)</strong> - Basics & fundamentals.</li>
-<li><strong>SQL</strong> - Basics & fundamentals.</li></ul>
+<li><strong>SQL</strong> - Basics & fundamentals.</li>
+<li>Loading...</li></ul>
 
 <h2>Other:</h2>
 <ul><li>GIT - Basics & fundamentals.</li>
 <li>Computer building & maintenance - Advanced.</li>
+<li>Loading...</li></ul>
 
 
 
